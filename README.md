@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Tuan Nguyen Ba
-![Banner]https://www.pexels.com/photo/blue-universe-956981/
+![Banner](https://www.pexels.com/photo/blue-universe-956981)
 
 ## 🚀 About Me
 I am a fourth-year student majoring in Telecommunications and Electronics at the University of Science, Ho Chi Minh City. With a passion for embedded systems and telecommunications, I am eager to apply my knowledge and skills to solve real-world problems through innovative solutions.
