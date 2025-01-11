@@ -106,7 +106,7 @@
 
 ### 📫 How to reach me? 
 <p align="center">
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/tuannguyenba/) 👨🏻‍💻 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/tuan22th4/) 👨🏻‍💻 <br>
   ⦿ Shoot Me an [Email](mailto:tuan22th4@gmail.com) 💌 <br>
 </p>
 
