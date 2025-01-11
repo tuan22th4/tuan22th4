@@ -106,11 +106,12 @@
 ---
 
 ## 🚀 Projects:
-| Project Name                        | Description                                                                      | Tools                                 | Completion Date |
-|-------------------------------------|----------------------------------------------------------------------------------|---------------------------------------|-----------------|
-| **Electronics**                     | Projects involving the design and development of electronic circuits, systems, and devices. | Circuit simulators, Multimeters, Soldering tools | 2021 - 2025 |
-| **Computer and Embedded Systems**   | Development of computer-based applications and embedded systems, focusing on microcontrollers and hardware integration. | C/C++, Microcontrollers, FPGA, IDEs   | 2021 - 2025 |
-| **Telecommunications and Networks** | Involvement in designing, simulating, and analyzing communication networks and telecommunication systems. | Networking simulators, Protocol analyzers, Routers | 2021 - 2025 |
+| Project Name                        | Description                                                                      | Tools                                 | Completion Date | Link |
+|-------------------------------------|----------------------------------------------------------------------------------|---------------------------------------|-----------------|------|
+| **Electronics**                     | Projects involving the design and development of electronic circuits, systems, and devices. | Circuit simulators, Multimeters, Soldering tools | 2021 | [Electronics](https://github.com/tuan22th4/HCMUS-ET-PRJ/tree/main/Electronics) |
+| **Computer and Embedded Systems**   | Development of computer-based applications and embedded systems, focusing on microcontrollers and hardware integration. | C/C++, Microcontrollers, FPGA, IDEs   | 2023 | [Computer and Embedded Systems](https://github.com/tuan22th4/HCMUS-ET-PRJ/tree/main/Computer%20and%20Embedded%20Systems) |
+| **Telecommunications and Networks** | Involvement in designing, simulating, and analyzing communication networks and telecommunication systems. | Networking simulators, Protocol analyzers, Routers | 2025 | [Telecommunications and Networks](https://github.com/tuan22th4/HCMUS-ET-PRJ/tree/main/Telecommunications%20and%20Networks) |
+
 
 
 
