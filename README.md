@@ -65,10 +65,10 @@
     <img src="https://github.com/tuan22th4/Images/blob/main/arduino.svg" alt="Arduino" width="50" height="50"/>
   </a>
   <a href="https://www.labcenter.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Proteus_Design_Suite_Logo.png" alt="Proteus" width="50" height="50"/>
+    <img src="https://github.com/tuan22th4/Images/blob/main/proteus.png" alt="Proteus" width="50" height="50"/>
   </a>
   <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/8/80/LTspice.png" alt="LTspice" width="50" height="50"/>
+    <img src="https://github.com/tuan22th4/Images/blob/main/ltspice-icon.avif" alt="LTspice" width="50" height="50"/>
   </a>
   <a href="https://www.xilinx.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Xilinx_logo.svg" alt="FPGA" width="50" height="50"/>
