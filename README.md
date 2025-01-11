@@ -92,18 +92,13 @@
 
 
 ### 🤝 Soft Skills:
-<p>
-  <a href="#" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/857/857681.png" alt="Problem-Solving" width="50" height="50"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1256/1256651.png" alt="Team Collaboration" width="50" height="50"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2395/2395112.png" alt="Communication" width="50" height="50"/>
-  </a>
-</p>
+🧠 Problem-Solving | 👥 Team Collaboration | 🗣 Communication
 
+## :zap: Skills
+- **Programming Languages:** Python, C, Java
+- **Telecommunications:** Signal processing, IoT, Embedded systems
+- **Tools:** MATLAB, Git, Arduino, Proteus, LTspice, FPGA, Linux, Synopsys, CCNA, Simplicity, VirtualBox
+- **Soft Skills:** 🧠 Problem-Solving | 👥 Team Collaboration | 🗣 Communication
 ---
 
 ### 📫 How to reach me? 
