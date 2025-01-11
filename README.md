@@ -62,7 +62,7 @@
     <img src="https://github.com/tuan22th4/Images/blob/main/git.png" alt="Git" width="50" height="50"/>
   </a>
   <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://github.com/tuan22th4/Images/blob/main/arduino.png" alt="Arduino" width="50" height="50"/>
+    <img src="https://github.com/tuan22th4/Images/blob/main/arduino.svg" alt="Arduino" width="50" height="50"/>
   </a>
   <a href="https://www.labcenter.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Proteus_Design_Suite_Logo.png" alt="Proteus" width="50" height="50"/>
