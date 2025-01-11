@@ -1,38 +1,118 @@
-# 👋 Hello, I'm Tuan Nguyen Ba
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuannguyenba&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<img src="https://github.com/tuan22th4/Images/blob/main/Sim_Corez.jpg" alt="Banner" width="600" height="300"/>
+<h1 align="center">Hi, I'm Tuan Nguyen Ba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## 🚀 About Me
-I am a fourth-year student majoring in Telecommunications and Electronics at the University of Science, Ho Chi Minh City. With a passion for embedded systems and telecommunications, I am eager to apply my knowledge and skills to solve real-world problems through innovative solutions.
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Tuan+Nguyen+Ba+;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" />
+  </a>
+</h3>
 
-## 🛠️ Skills
+<p align="center">
+  <samp>
+    Hey, My name is <em>Tuan Nguyen Ba</em>, and I am a final-year student in Telecommunications and Electronics at the University of Science, Ho Chi Minh City. I am deeply passionate about learning new technologies and building innovative solutions. 🚀
+  </samp>
+  <br />
+</p>
 
-### Programming Languages
-- C, C++, Python, Embedded C/C++, MATLAB
-- HTML, CSS
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tuannguyenba&theme=algolia" alt="GitHub Streak" />
+  </a>
+</p>
 
-### Microcontrollers
-- STMicroelectronics, NXP, TI, Microchip, Atmel
-
-### Communication Protocols
-- I2C, SPI, UART/USART, CAN, Ethernet, I2S, TCP/IP, USB, SAI, SDIO, SWD, JTAG
-
-### Peripherals
-- GPIO, Interrupts, ADC, DAC, Timer, DMA, Watchdog, Real-Time Clock
-
-
-
-### Embedded Software Development
-- Bare-metal programming, Firmware development, Real-Time System development
-
-## 📚 Education
-- **University of Science, Ho Chi Minh City**
-  - Bachelor of Science in Telecommunications and Electronics (Expected 2025)
-
-## 🌱 Interests
-- Embedded systems, IoT, Robotics, Low-level programming, and Continuous learning.
-
-## 🌐 Connect with Me
-- **Email:** tuan22th4@gmail.com
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
 ---
+
+## ⚙️ Skills Overview
+
+### 👨‍💻 Programming Languages:
+<p>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://devdocs.io/c/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  </a>
+</p>
+
+### 📡 Telecommunications:
+<p>
+  <a href="https://en.wikipedia.org/wiki/Signal_processing" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sine_wave_icon.svg/512px-Sine_wave_icon.svg.png" alt="Signal Processing" width="50" height="50"/>
+  </a>
+  <a href="https://www.iotforall.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/iot/iot-icon.svg" alt="IoT" width="50" height="50"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Embedded_system" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Embedded_systems_logo.svg/512px-Embedded_systems_logo.svg.png" alt="Embedded Systems" width="50" height="50"/>
+  </a>
+</p>
+
+## 🛠 Tools:
+<p>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50"/>
+  </a>
+  <a href="https://www.labcenter.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Proteus_Design_Suite_Logo.png" alt="Proteus" width="50" height="50"/>
+  </a>
+  <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/8/80/LTspice.png" alt="LTspice" width="50" height="50"/>
+  </a>
+  <a href="https://www.xilinx.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Xilinx_logo.svg" alt="FPGA" width="50" height="50"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  </a>
+  <a href="https://www.synopsys.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Synopsys_logo.svg" alt="Synopsys" width="50" height="50"/>
+  </a>
+  <a href="https://www.cisco.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Cisco_logo.svg" alt="CCNA" width="50" height="50"/>
+  </a>
+  <a href="https://www.ti.com/tool/SIMPLELINK-SDK" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Texas_Instruments_logo.svg" alt="Simplicity" width="50" height="50"/>
+  </a>
+  <a href="https://www.virtualbox.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox" width="50" height="50"/>
+  </a>
+</p>
+
+
+### 🤝 Soft Skills:
+<p>
+  <a href="#" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/857/857681.png" alt="Problem-Solving" width="50" height="50"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1256/1256651.png" alt="Team Collaboration" width="50" height="50"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2395/2395112.png" alt="Communication" width="50" height="50"/>
+  </a>
+</p>
+
+---
+
+### 📫 How to reach me? 
+<p align="center">
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/tuannguyenba/) 👨🏻‍💻 <br>
+  ⦿ Shoot Me an [Email](mailto:tuan22th4@gmail.com) 💌 <br>
+</p>
+
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&color=60F74D&background=5A56FF00&center=true&vCenter=true&width=435&lines=Thanks%2C+You're+Awesome+%3A)" alt="Typing SVG" /></a></p>
+
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/tuannguyenba/count.svg)
