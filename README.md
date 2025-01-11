@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuannguyenba&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-## 🚀 Projects:
+
 <h1 align="center">Hi, I'm Tuan Nguyen Ba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">
@@ -102,6 +102,16 @@
 - **Telecommunications:** Signal processing, IoT, Embedded systems
 - **Tools:** MATLAB, Git, Arduino, Proteus, LTspice, FPGA, Linux, Synopsys, CCNA, Simplicity, VirtualBox
 - **Soft Skills:** 🧠 Problem-Solving | 👥 Team Collaboration | 🗣 Communication
+---
+---
+
+## 🚀 Projects:
+| Project Name                | Description                              | Tools                  | Completion Date |
+|-----------------------------|------------------------------------------|------------------------|-----------------|
+| **Electronics**             |                                         |                        |                 |
+| **Computer and Embedded Systems** |                                         |                        |                 |
+| **Telecommunications and Networks** |                                         |                        |                 |
+
 ---
 
 ### 📫 How to reach me? 
