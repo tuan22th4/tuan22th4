@@ -59,10 +59,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="50"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+    <img src="https://github.com/tuan22th4/Images/blob/main/git.png" alt="Git" width="50" height="50"/>
   </a>
   <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50"/>
+    <img src="https://github.com/tuan22th4/Images/blob/main/arduino.png" alt="Arduino" width="50" height="50"/>
   </a>
   <a href="https://www.labcenter.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Proteus_Design_Suite_Logo.png" alt="Proteus" width="50" height="50"/>
@@ -74,19 +74,19 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Xilinx_logo.svg" alt="FPGA" width="50" height="50"/>
   </a>
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+    <img src="https://github.com/tuan22th4/Images/blob/main/linux.png" alt="Linux" width="50" height="50"/>
   </a>
   <a href="https://www.synopsys.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Synopsys_logo.svg" alt="Synopsys" width="50" height="50"/>
   </a>
   <a href="https://www.cisco.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Cisco_logo.svg" alt="CCNA" width="50" height="50"/>
+    <img src="https://github.com/tuan22th4/Images/blob/main/cisco.png" alt="CCNA" width="50" height="50"/>
   </a>
   <a href="https://www.ti.com/tool/SIMPLELINK-SDK" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Texas_Instruments_logo.svg" alt="Simplicity" width="50" height="50"/>
+    <img src="https://github.com/tuan22th4/Images/blob/main/simplicity-studio-blue.png" alt="Simplicity" width="50" height="50"/>
   </a>
   <a href="https://www.virtualbox.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox" width="50" height="50"/>
+    <img src="https://github.com/tuan22th4/Images/blob/main/virtual-box.png" width="50" height="50"/>
   </a>
 </p>
 
