@@ -70,14 +70,14 @@
   <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank">
     <img src="https://github.com/tuan22th4/Images/blob/main/ltspice-icon.avif" alt="LTspice" width="50" height="50"/>
   </a>
-  <a href="https://www.xilinx.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Xilinx_logo.svg" alt="FPGA" width="50" height="50"/>
+  <a href="https://www.intel.com/" target="_blank">
+    <img src="https://github.com/tuan22th4/Images/blob/main/quartusii_icon.ico" alt="FPGA" width="50" height="50"/>
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://github.com/tuan22th4/Images/blob/main/linux.png" alt="Linux" width="50" height="50"/>
   </a>
   <a href="https://www.synopsys.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Synopsys_logo.svg" alt="Synopsys" width="50" height="50"/>
+    <img src="https://github.com/tuan22th4/Images/blob/main/synopsys.png" alt="Synopsys" width="50" height="50"/>
   </a>
   <a href="https://www.cisco.com/" target="_blank">
     <img src="https://github.com/tuan22th4/Images/blob/main/cisco.png" alt="CCNA" width="50" height="50"/>
