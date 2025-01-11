@@ -108,9 +108,10 @@
 ## 🚀 Projects:
 | Project Name                        | Description                                                                      | Tools                                 | Completion Date |
 |-------------------------------------|----------------------------------------------------------------------------------|---------------------------------------|-----------------|
-| **Electronics**                     | Projects involving the design and development of electronic circuits, systems, and devices. | Circuit simulators, Multimeters, Soldering tools | [Completion Date] |
-| **Computer and Embedded Systems**   | Development of computer-based applications and embedded systems, focusing on microcontrollers and hardware integration. | C/C++, Microcontrollers, FPGA, IDEs   | [Completion Date] |
-| **Telecommunications and Networks** | Involvement in designing, simulating, and analyzing communication networks and telecommunication systems. | Networking simulators, Protocol analyzers, Routers | [Completion Date] |
+| **Electronics**                     | Projects involving the design and development of electronic circuits, systems, and devices. | Circuit simulators, Multimeters, Soldering tools | 2021 - 2025 |
+| **Computer and Embedded Systems**   | Development of computer-based applications and embedded systems, focusing on microcontrollers and hardware integration. | C/C++, Microcontrollers, FPGA, IDEs   | 2021 - 2025 |
+| **Telecommunications and Networks** | Involvement in designing, simulating, and analyzing communication networks and telecommunication systems. | Networking simulators, Protocol analyzers, Routers | 2021 - 2025 |
+
 
 
 ### 📫 How to reach me? 
