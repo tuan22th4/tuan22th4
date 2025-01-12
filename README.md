@@ -44,17 +44,18 @@
 </p>
 
 ### 📡 Telecommunications:
-<p>
-  <a href="https://en.wikipedia.org/wiki/Signal_processing" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sine_wave_icon.svg/512px-Sine_wave_icon.svg.png" alt="Signal Processing" width="50" height="50"/>
-  </a>
-  <a href="https://www.iotforall.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/iot/iot-icon.svg" alt="IoT" width="50" height="50"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Embedded_system" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Embedded_systems_logo.svg/512px-Embedded_systems_logo.svg.png" alt="Embedded Systems" width="50" height="50"/>
-  </a>
-</p>
+
+ **Communication Systems**  
+   - OSI model, signal modulation, transmission methods.
+
+ **Wireless & Mobile Networks**  
+   - 4G, 5G, Wi-Fi, Bluetooth, LTE.
+
+ **Optical & Satellite Communication**  
+   - Fiber optic networks, satellite systems (GEO, LEO).
+
+ **Data Networks & Security**  
+   - TCP/IP, UDP, encryption techniques.
 
 ## 🛠 Tools:
 <p>
