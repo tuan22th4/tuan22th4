@@ -2,15 +2,9 @@
 
 <h1 align="center">Hi, I'm Tuan Nguyen Ba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Tuan+Nguyen;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" />
-  </a>
-</h3>
-
 <p align="center">
   <samp>
-     I have a solid foundation in electronics, signal processing, and telecommunication systems, with strong programming skills and hands-on experience in digital electronics, microcontrollers, and network systems. I achieved high scores in key courses such as Programming Techniques, Basic Electronics Practice, and Microcontroller Practices, and completed advanced subjects including Digital Signal Processing and Wireless Communication. In addition, I actively participated in technical workshops and projects related to embedded systems while also engaging in cross-disciplinary learning in entrepreneurship and critical thinking. 🚀
+    I have a solid foundation in electronics, signal processing, and telecommunication systems, with strong programming skills and hands-on experience in digital electronics, microcontrollers, and network systems. I achieved high scores in key courses such as Programming Techniques, Basic Electronics Practice, and Microcontroller Practices, and completed advanced subjects including Digital Signal Processing and Wireless Communication. In addition, I actively participated in technical workshops and projects related to embedded systems while also engaging in cross-disciplinary learning in entrepreneurship and critical thinking. 🚀
   </samp>
   <br />
 </p>
