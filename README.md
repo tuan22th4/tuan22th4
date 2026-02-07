@@ -10,7 +10,7 @@
 
 <p align="center">
   <samp>
-    Hey, My name is <em>Tuan Nguyen Ba</em>, and I am a final-year student in Telecommunications and Electronics at the University of Science, Ho Chi Minh City. I have a solid foundation in electronics, signal processing, and telecommunication systems, with strong programming skills and hands-on experience in digital electronics, microcontrollers, and network systems. I achieved high scores in key courses such as Programming Techniques, Basic Electronics Practice, and Microcontroller Practices, and completed advanced subjects including Digital Signal Processing and Wireless Communication. In addition, I actively participated in technical workshops and projects related to embedded systems while also engaging in cross-disciplinary learning in entrepreneurship and critical thinking. 🚀
+     I have a solid foundation in electronics, signal processing, and telecommunication systems, with strong programming skills and hands-on experience in digital electronics, microcontrollers, and network systems. I achieved high scores in key courses such as Programming Techniques, Basic Electronics Practice, and Microcontroller Practices, and completed advanced subjects including Digital Signal Processing and Wireless Communication. In addition, I actively participated in technical workshops and projects related to embedded systems while also engaging in cross-disciplinary learning in entrepreneurship and critical thinking. 🚀
   </samp>
   <br />
 </p>
